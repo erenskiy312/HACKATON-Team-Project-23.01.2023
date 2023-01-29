@@ -1,10 +1,12 @@
 import Navbar from "./components/Navbar/Navbar";
+import MainRoutes from "./MainRoutes";
 
 function App() {
   return (
-    <div>
+    <>
       <Navbar />
-    </div>
+      <MainRoutes />
+    </>
   );
 }
 
