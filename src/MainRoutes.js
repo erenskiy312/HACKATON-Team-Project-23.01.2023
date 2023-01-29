@@ -1,5 +1,5 @@
 import React from "react";
-import AboutPage from "./pages/AboutPage";
+import { Route, Routes } from "react-router-dom";
 import AdminPage from "./pages/AdminPage";
 import EditProductGame from "./pages/EditProductGame";
 import FreePage from "./pages/FreePage";
@@ -18,7 +18,15 @@ const MainRoutes = () => {
     { link: "/edit/:id", element: <EditProductGame />, id: 6 },
   ];
 
-  return <div></div>;
+  return (
+    <>
+      <Routes>
+        {PUBLIC_ROUTES.map((item) => (
+          <Route path={item.link} element={item.element} key={item.id} />
+        ))}
+      </Routes>
+    </>
+  );
 };
 
 export default MainRoutes;
