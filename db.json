@@ -23,6 +23,53 @@
       "picture": "",
       "type": "",
       "id": 3
+    },
+    {
+      "name": "",
+      "descr": "",
+      "price": 0,
+      "picture": "",
+      "type": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "descr": "",
+      "price": 50000,
+      "picture": "",
+      "type": "",
+      "f": "f",
+      "": "",
+      "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFRUYGBgaGhwaHBocHBoeHhohGhoaGhohHBgcIS4lHB4rIRoaJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHjQkJCs0NDQ0NDE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAEBQMGAAIHAQj/xABDEAACAQIEAwUFBQUHAwUBAAABAgADEQQFEiExQVEGImFxgRMykaGxQlLB0fAHFHLC4RUjM2KSsvFTc6I1Q1SC4hb/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EACQRAAICAgICAwEAAwAAAAAAAAABAhEhMRJBAyIyQlFhE3GB/9oADAMBAAIRAxEAPwCkYenCWqARxRyRi+ngIpzTCFKwUyUk0rLrLC8KlxvDqQAkOHSwkqyaK6Hn9qPSwlX2fvW+E5VgbtU72+q/xM6MlchGXazCxvK3SygCspXhKR3QkourNv7JY222+UNw2X2O/GFYiuU4IW8L2EW1cS7sBo0C/EGLOWSsIJDP9234RXmmX6rgDhC8ezqqgMd+JmYbMQGCOrk294DaaEr2g+SKJOwrnWytynRl0Ipd2CLzJ2EquWUkw61MTU2S1/E9APEnaUfP+0tXEvd2sg2RBsq/mfGdcXSOKSydDxvaVRuiDRcqKjEWNiQbAeW02wnaAkjv2O5YWANrXBA35dfnOSJUbkeH4Sf99f3dV97jYbeUVtmR2nDYtzoYMd+fIWB94k2tGyYose+pBGxvYdNJDC9wbzjGV5w+6sx5gfZ2PG5G522sQRuZ1Hsxj9WlSNdtKlQw7o3IJOwYcrDw2gwN/UG53iWpUndFLEDlvp8T4eM5ZjcSzksxLMeJM7NWUHUykEBrWF2JAtyG4HH5Tm/bjIxRc": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFRUYGBgaGhwaHBocHBoeHhohGhoaGhohHBgcIS4lHB4rIRoaJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHjQkJCs0NDQ0NDE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAEBQMGAAIHAQj/xABDEAACAQIEAwUFBQUHAwUBAAABAgADEQQFEiExQVEGImFxgRMykaGxQlLB0fAHFHLC4RUjM2KSsvFTc6I1Q1SC4hb/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EACQRAAICAgICAwEAAwAAAAAAAAABAhEhMRJBAyIyQlFhE3GB/9oADAMBAAIRAxEAPwCkYenCWqARxRyRi+ngIpzTCFKwUyUk0rLrLC8KlxvDqQAkOHSwkqyaK6Hn9qPSwlX2fvW+E5VgbtU72+q/xM6MlchGXazCxvK3SygCspXhKR3QkourNv7JY222+UNw2X2O/GFYiuU4IW8L2EW1cS7sBo0C/EGLOWSsIJDP9234RXmmX6rgDhC8ezqqgMd+JmYbMQGCOrk294DaaEr2g+SKJOwrnWytynRl0Ipd2CLzJ2EquWUkw61MTU2S1/E9APEnaUfP+0tXEvd2sg2RBsq/mfGdcXSOKSydDxvaVRuiDRcqKjEWNiQbAeW02wnaAkjv2O5YWANrXBA35dfnOSJUbkeH4Sf99f3dV97jYbeUVtmR2nDYtzoYMd+fIWB94k2tGyYose+pBGxvYdNJDC9wbzjGV5w+6sx5gfZ2PG5G522sQRuZ1Hsxj9WlSNdtKlQw7o3IJOwYcrDw2gwN/UG53iWpUndFLEDlvp8T4eM5ZjcSzksxLMeJM7NWUHUykEBrWF2JAtyG4HH5Tm/bjIxRc",
+      "Erbol": "Erbol",
+      "Adoha": "Adoha",
+      "Aidarbekov": "Aidarbekov",
+      "id": 5
+    },
+    {
+      "name": "",
+      "descr": "",
+      "price": 0,
+      "picture": "",
+      "type": "",
+      "Erbol": "Erbol",
+      "id": 6
+    },
+    {
+      "name": "",
+      "descr": "",
+      "price": 0,
+      "picture": "",
+      "type": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "descr": "",
+      "price": 0,
+      "picture": "",
+      "type": "",
+      "id": 8
     }
   ]
 }

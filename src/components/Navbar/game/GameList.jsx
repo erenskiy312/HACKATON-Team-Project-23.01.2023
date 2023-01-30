@@ -1,4 +1,3 @@
-import { SecurityUpdateGood } from "@mui/icons-material";
 import { Box, Pagination } from "@mui/material";
 import { Stack } from "@mui/system";
 import React, { useEffect, useState } from "react";
