@@ -42,7 +42,7 @@ function Navbar() {
   };
 
   return (
-    <AppBar position="static">
+    <AppBar position="static" style={{ backgroundColor: "green" }}>
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <AdbIcon sx={{ display: { xs: "none", md: "flex" }, mr: 1 }} />
@@ -61,7 +61,7 @@ function Navbar() {
               textDecoration: "none",
             }}
           >
-            LOGO
+            GAMEBUY
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: "flex", md: "none" } }}>
@@ -119,7 +119,7 @@ function Navbar() {
               textDecoration: "none",
             }}
           >
-            LOGO
+            GAMEBUY
           </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
             {pages.map((page) => (
