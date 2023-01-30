@@ -70,7 +70,13 @@ const GameContextProvider = ({ children }) => {
     navigate(url);
   };
 
-  const values = { getGames, addGame, deleteGame, games: state.games };
+  const values = {
+    getGames,
+    addGame,
+    deleteGame,
+    games: state.games,
+    fetchByParams,
+  };
 
   return <gameContext.Provider value={values}>{children}</gameContext.Provider>;
 };
