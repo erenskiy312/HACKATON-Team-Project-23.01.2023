@@ -10,20 +10,28 @@ import { useGames } from "../../../contexts/GameContextProvider";
 export default function GameCard({ item }) {
   const { deleteGame } = useGames();
   return (
-    <Card sx={{ maxWidth: 345 }}>
-      <CardMedia image="/static/images/cards/contemplative-reptile.jpg" />
+    <Card
+      sx={{
+        maxWidth: 345,
+        width: "20%",
+        margin: "3%",
+        marginLeft: "12%",
+        display: "inline-block",
+      }}
+    >
+      <CardMedia sx={{ height: 140 }} image={item.picture} />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          .
+          {item.name}
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          .
+          {item.descr}
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          .
+          {item.type}
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          .
+          {item.price}
         </Typography>
       </CardContent>
       <CardActions>
