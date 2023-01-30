@@ -22,7 +22,7 @@ const pages = [
 
 const settings = ["Profile", "Account", "Dashboard", "Logout"];
 
-function Navbar() {
+function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
   const [anchorElUser, setAnchorElUser] = React.useState(null);
 
@@ -55,6 +55,7 @@ function Navbar() {
               mr: 2,
               display: { xs: "none", md: "flex" },
               fontFamily: "monospace",
+
               fontWeight: 700,
               letterSpacing: ".3rem",
               color: "inherit",
@@ -163,5 +164,4 @@ function Navbar() {
     </AppBar>
   );
 }
-
-export default Navbar;
+export default ResponsiveAppBar;
