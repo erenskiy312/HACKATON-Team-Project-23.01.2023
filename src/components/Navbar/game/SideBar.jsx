@@ -26,7 +26,7 @@ const SideBar = () => {
   }, [search]);
 
   return (
-    <Grid item md={3}>
+    <Grid item md={3} sx={{ marginTop: "-4%", marginLeft: "70%" }}>
       <Paper elevation={5} sx={{ p: 2 }}>
         <TextField
           value={search}
