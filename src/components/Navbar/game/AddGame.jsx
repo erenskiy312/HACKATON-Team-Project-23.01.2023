@@ -1,5 +1,6 @@
 import { Box, Button, TextField, Typography } from "@mui/material";
 import React, { useState } from "react";
+import { useGames } from "../../../contexts/GameContextProvider";
 
 const AddGame = () => {
   const [game, setGame] = useState({
@@ -9,6 +10,8 @@ const AddGame = () => {
     picture: "",
     type: "",
   });
+
+  const { addGame } = useGames();
 
   const handleInp = (e) => {
     if (e.target.name === "price") {
@@ -80,7 +83,7 @@ const AddGame = () => {
         CREATE PRODUCT
       </Button> */}
       <Button
-        onClick={() => AddGame(game)}
+        onClick={() => addGame(game)}
         variant="contained"
         color="success"
         fullWidth

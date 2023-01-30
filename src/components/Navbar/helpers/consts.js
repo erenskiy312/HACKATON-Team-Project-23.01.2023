@@ -1,4 +1,4 @@
-export const API = "http://localhost:8000/games";
+export const API = "http://localhost:8001/games";
 
 export const ACTIONS = {
   GET_GAMES: "GET_GAME",

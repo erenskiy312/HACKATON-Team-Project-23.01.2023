@@ -1,3 +1,12 @@
 {
-  "games": []
+  "games": [
+    {
+      "name": "",
+      "descr": "",
+      "price": 0,
+      "picture": "",
+      "type": "",
+      "id": 1
+    }
+  ]
 }
